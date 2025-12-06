@@ -82,6 +82,7 @@ endmodule
 
 
 **Output Timing Waveform**
+
 **Full Adder**
 <img width="1712" height="424" alt="Screenshot 2025-12-06 114113" src="https://github.com/user-attachments/assets/4367bf2e-318b-4279-929e-80bbb4dd4267" />
 **Full Subtractor**
